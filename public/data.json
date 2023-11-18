@@ -1,0 +1,43 @@
+[
+    {
+        "id": "6557f59fa241e73e431ecf0f",
+        "title": "Mastering the Art of Code Refactoring: Strategies for Cleaner and More Programs"
+        ,
+        "cover_img": "cover_img1.jpg",
+        "author_img": "boy1.png",
+        "author_name": "Alex Chen",
+        "reading_time": 5,
+        "release_date": "9/3/2023",
+        "category": ["#beginners", "#programming"]
+    },
+    {
+        "id": "6557f59f08b5763a4986b59d",
+        "title": "Exploring the Depths of Asynchronous JavaScript: A Guide to Promises and Async/Await",
+        "cover_img": "cover_img2.png",
+        "author_img": "boy2.png",
+        "author_name": "Carlos Rodriguez",
+        "reading_time": 10,
+        "release_date": "4/15/2022",
+        "category": ["#javascript", "#web"]
+    },
+    {
+        "id": "6557f59f23032c07b827ad64",
+        "title": "Navigating the World of APIs: A Comprehensive Overview for Programmers",
+        "cover_img": "cover_img3.png",
+        "author_img": "girl1.jpg",
+        "author_name": "Maya Patel",
+        "reading_time": 12,
+        "release_date": "1/24/2021",
+        "category": ["#api", "#network"]
+    },
+    {
+        "id": "6557f59f0fa994a50d7ba3de",
+        "title": "Harnessing the Potential of JavaScript Frameworks: A Comparative Analysis of React, Vue, and Angular",
+        "cover_img": "cover_img4.jpg",
+        "author_img": "girl2.jpg",
+        "author_name": "Emily Kimura",
+        "reading_time": 8,
+        "release_date": "7/5/2019",
+        "category": ["#framework", "#react"]
+    }
+]
